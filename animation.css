@@ -1,0 +1,13 @@
+#container{
+    width: 100%;
+    height: 100vh;
+    background-color: darkgoldenrod;
+    position: relative;
+}
+
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+}
